@@ -1,7 +1,4 @@
 
-// CNC Shield Stepper  Control Demo
-// Superb Tech
-// www.youtube.com/superbtech
 
 const int StepX = 2;
 const int DirX = 5;
