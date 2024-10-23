@@ -8,8 +8,7 @@ const int DirX = 5;
 void setup() {
   pinMode(StepX,OUTPUT);
   pinMode(DirX,OUTPUT);
-  pinMode(StepX,OUTPUT);
-  pinMode(DirX,OUTPUT);
+
 }
 
 void loop() {
