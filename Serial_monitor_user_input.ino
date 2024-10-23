@@ -21,10 +21,10 @@ void recvOneChar() {
     }
 }
 
-// void showNewData() {
-//     if (newData == true) {
-//         Serial.print("This just in ... ");
-//         Serial.println(receivedChar);
-//         newData = false;
-//     }
+ void showNewData() {
+     if (newData == true) {
+         Serial.print("This just in ... ");
+         Serial.println(receivedChar);
+         newData = false;
+     }
 }
